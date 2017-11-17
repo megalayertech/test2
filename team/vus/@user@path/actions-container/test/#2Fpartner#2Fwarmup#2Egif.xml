@@ -1,0 +1,35 @@
+<http-page executeResourcesDynamically="false"
+    name="/partner/warmup.gif" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/b5747a6c-af5a-4199-b7d2-820a80d45e50.zip"
+    slaProfileEnabled="false" thinkTime="8706"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="b5747a6c-af5a-4199-b7d2-820a80d45e50">
+    <embedded-action>1133c90a-2989-4e0c-8144-1e811eb8aa93</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/partner/warmup.gif" path="/partner/warmup.gif"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/b5747a6c-af5a-4199-b7d2-820a80d45e50.zip"
+    recordedResponseCode="200" responseSize="0" serverUid="www.bing.com"
+    slaProfileEnabled="false" uid="1133c90a-2989-4e0c-8144-1e811eb8aa93" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_1133c90a-2989-4e0c-8144-1e811eb8aa93.txt</requestContentFileDescription>
+    <header name="accept-language" value="en-US, en;q=0.5"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299"/>
+    <header name="cookie" value="SRCHUID=V=2&amp;GUID=16DDC696E225492CBDDC35A3C5DA91C3&amp;dmnchg=1; SRCHD=AF=NOFORM; MUID=2B9B68F5E8EE67D428A86252ECEE64F6; SRCHUSR=DOB=20170630; NAP=V=1.9&amp;E=13f5&amp;C=uU8IFHtSyuG5-uBKP9rYaqaE__cwe6SuvbFgfSVz6QJxh1YieDi8gw&amp;W=1; SRCHHPGUSR=LUT=1508869675655&amp;CW=1520&amp;CH=756&amp;DPR=1.25&amp;UTC=-300&amp;WTS=63645843866; ANON=A=6772D42C459F713C79F65255FFFFFFFF&amp;E=13f5&amp;W=1; _U=1Ctw3myc69z2FqdS8Ba_Hh9Rql96YflXoTO7vGMxWnhqBMYK6w0_TvCxjlIENWSBrsV1eicStYtmqoasOc0PZMnvazEerHk-2vOoWT20uGipSqTw8hbeoj_tSizhNq_PM; WLID=kqrENjvSA0Dw8u1zzbw+1VNqVlk9GHAvMAxHL/g86Sij9u0MHlvQesixYxpEIsk2K/hT3cHjGU++A6MVzd0aMK855f/HLDHqJdieBTLa3GY=; _RwBf=s=10&amp;o=0&amp;A=6772D42C459F713C79F65255FFFFFFFF; MUIDB=2B9B68F5E8EE67D428A86252ECEE64F6"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: no-cache&#xd;
+pragma: no-cache&#xd;
+content-length: 43&#xd;
+content-type: image/gif&#xd;
+expires: -1&#xd;
+vary: Accept-Encoding&#xd;
+x-msedge-ref: Ref A: 160758DD3AF747908BCAD03CB5B2C8FD Ref B: NYCEDGE0213 Ref C: 2017-11-17T21:40:05Z&#xd;
+date: Fri, 17 Nov 2017 21:40:05 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

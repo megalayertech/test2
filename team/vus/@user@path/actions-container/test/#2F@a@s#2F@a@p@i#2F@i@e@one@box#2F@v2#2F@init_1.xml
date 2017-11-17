@@ -1,0 +1,77 @@
+<http-page executeResourcesDynamically="false"
+    name="/AS/API/IEOneBox/V2/Init_1" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/84857cd7-fada-420f-b465-abcd1a8fc244.zip"
+    slaProfileEnabled="false" thinkTime="21"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="84857cd7-fada-420f-b465-abcd1a8fc244">
+    <embedded-action>414b54f0-d1ad-414e-9a27-758b1fd12eb6</embedded-action>
+    <embedded-action>72b0162c-c9dd-4497-a9a1-29d1a4b01c79</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/AS/API/IEOneBox/V2/Init"
+    path="/AS/API/IEOneBox/V2/Init" postType="1"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/84857cd7-fada-420f-b465-abcd1a8fc244.zip"
+    recordedResponseCode="200" responseSize="40073"
+    serverUid="www.bing.com" slaProfileEnabled="false"
+    uid="414b54f0-d1ad-414e-9a27-758b1fd12eb6" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_414b54f0-d1ad-414e-9a27-758b1fd12eb6.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_414b54f0-d1ad-414e-9a27-758b1fd12eb6.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="setlang"
+        recordRawValue="en-US" separator="=" value="en-US" valueMode="USE_VALUE"/>
+    <header name="cookie" value="SRCHUID=V=2&amp;GUID=16DDC696E225492CBDDC35A3C5DA91C3&amp;dmnchg=1; SRCHD=AF=NOFORM; MUID=2B9B68F5E8EE67D428A86252ECEE64F6; SRCHUSR=DOB=20170630; NAP=V=1.9&amp;E=13f5&amp;C=uU8IFHtSyuG5-uBKP9rYaqaE__cwe6SuvbFgfSVz6QJxh1YieDi8gw&amp;W=1; SRCHHPGUSR=LUT=1508869675655&amp;CW=1520&amp;CH=756&amp;DPR=1.25&amp;UTC=-300&amp;WTS=63645843866; ANON=A=6772D42C459F713C79F65255FFFFFFFF&amp;E=13f5&amp;W=1; _U=1Ctw3myc69z2FqdS8Ba_Hh9Rql96YflXoTO7vGMxWnhqBMYK6w0_TvCxjlIENWSBrsV1eicStYtmqoasOc0PZMnvazEerHk-2vOoWT20uGipSqTw8hbeoj_tSizhNq_PM; WLID=kqrENjvSA0Dw8u1zzbw+1VNqVlk9GHAvMAxHL/g86Sij9u0MHlvQesixYxpEIsk2K/hT3cHjGU++A6MVzd0aMK855f/HLDHqJdieBTLa3GY=; _RwBf=s=10&amp;o=0&amp;A=6772D42C459F713C79F65255FFFFFFFF; _SS=SID=23D51E2A8DD162D02A8115178C56632E&amp;CPID=1510954804233&amp;AC=0&amp;CPH=880b3509; _EDGE_S=SID=23D51E2A8DD162D02A8115178C56632E; WLS=C=4ba090fbc2567ba9&amp;N=David; MUIDB=2B9B68F5E8EE67D428A86252ECEE64F6"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept" value="*/*"/>
+    <header name="accept-language" value="en-US, en;q=0.5"/>
+    <header name="referer" value="https://www.bing.com/"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; ServiceUI 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: private&#xd;
+content-length: 13422&#xd;
+content-type: text/html; charset=utf-8&#xd;
+content-encoding: gzip&#xd;
+vary: Accept-Encoding&#xd;
+p3p: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"&#xd;
+set-cookie: WLS=C=&amp;N=; domain=.bing.com; path=/&#xd;
+x-ua-compatible: IE=edge&#xd;
+x-msedge-ref: Ref A: 3E1599776AE047328E50A9A2F5173C8A Ref B: NYCEDGE0311 Ref C: 2017-11-17T21:40:06Z&#xd;
+date: Fri, 17 Nov 2017 21:40:05 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1"
+    contentType="application/x-javascript; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/rms/Framework/cj,nj/faa835b2/e655f2be.js"
+    path="/rms/Framework/cj,nj/faa835b2/e655f2be.js" postType="1"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/84857cd7-fada-420f-b465-abcd1a8fc244.zip"
+    recordedResponseCode="200" responseSize="18642"
+    serverUid="www.bing.com" slaProfileEnabled="false"
+    uid="72b0162c-c9dd-4497-a9a1-29d1a4b01c79" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_72b0162c-c9dd-4497-a9a1-29d1a4b01c79</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_72b0162c-c9dd-4497-a9a1-29d1a4b01c79.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="bu"
+        recordRawValue="rms+answers+BoxModel+config.instant%2cempty%2ccore%2ccore%24viewport%2ccore%24layout%2ccore%24metrics%2cmodules%24mutation%2cmodules%24error%2cmodules%24network%2cmodules%24cursor%2cmodules%24keyboard%2cempty%2cmodules%24bot"
+        separator="="
+        value="rms answers BoxModel config.instant,empty,core,core$viewport,core$layout,core$metrics,modules$mutation,modules$error,modules$network,modules$cursor,modules$keyboard,empty,modules$bot" valueMode="USE_VALUE"/>
+    <header name="cookie" value="SRCHUID=V=2&amp;GUID=16DDC696E225492CBDDC35A3C5DA91C3&amp;dmnchg=1; SRCHD=AF=NOFORM; MUID=2B9B68F5E8EE67D428A86252ECEE64F6; SRCHUSR=DOB=20170630; NAP=V=1.9&amp;E=13f5&amp;C=uU8IFHtSyuG5-uBKP9rYaqaE__cwe6SuvbFgfSVz6QJxh1YieDi8gw&amp;W=1; SRCHHPGUSR=LUT=1508869675655&amp;CW=1520&amp;CH=756&amp;DPR=1.25&amp;UTC=-300&amp;WTS=63645843866; ANON=A=6772D42C459F713C79F65255FFFFFFFF&amp;E=13f5&amp;W=1; _U=1Ctw3myc69z2FqdS8Ba_Hh9Rql96YflXoTO7vGMxWnhqBMYK6w0_TvCxjlIENWSBrsV1eicStYtmqoasOc0PZMnvazEerHk-2vOoWT20uGipSqTw8hbeoj_tSizhNq_PM; WLID=kqrENjvSA0Dw8u1zzbw+1VNqVlk9GHAvMAxHL/g86Sij9u0MHlvQesixYxpEIsk2K/hT3cHjGU++A6MVzd0aMK855f/HLDHqJdieBTLa3GY=; _RwBf=s=10&amp;o=0&amp;A=6772D42C459F713C79F65255FFFFFFFF; _SS=SID=23D51E2A8DD162D02A8115178C56632E&amp;CPID=1510954804233&amp;AC=0&amp;CPH=880b3509; _EDGE_S=SID=23D51E2A8DD162D02A8115178C56632E; WLS=C=&amp;N=; MUIDB=2B9B68F5E8EE67D428A86252ECEE64F6"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept" value="*/*"/>
+    <header name="referer" value="https://www.bing.com/"/>
+    <header name="accept-language" value="en-US, en;q=0.5"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; ServiceUI 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: public, max-age=15552000&#xd;
+content-type: application/x-javascript; charset=utf-8&#xd;
+content-encoding: gzip&#xd;
+last-modified: Wed, 15 Nov 2017 14:16:36 GMT&#xd;
+vary: Accept-Encoding&#xd;
+date: Fri, 17 Nov 2017 21:40:06 GMT&#xd;
+content-length: 7696</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

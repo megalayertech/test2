@@ -1,0 +1,71 @@
+<http-page executeResourcesDynamically="false"
+    name="/manifest/IEOneBox_V2.appcache_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/0a1185b5-cfef-4f39-a408-52a3e7a906b2.zip"
+    slaProfileEnabled="false" thinkTime="1399"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="0a1185b5-cfef-4f39-a408-52a3e7a906b2">
+    <embedded-action>12b15aca-f0e5-49ed-8216-510ddd9391bd</embedded-action>
+    <embedded-action>1d6b8c05-ace5-4630-949d-148a0adde5b2</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="text/cache-manifest; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/manifest/IEOneBox_V2.appcache"
+    path="/manifest/IEOneBox_V2.appcache" postType="1"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/0a1185b5-cfef-4f39-a408-52a3e7a906b2.zip"
+    recordedResponseCode="200" responseSize="3264"
+    serverUid="www.bing.com" slaProfileEnabled="false"
+    uid="12b15aca-f0e5-49ed-8216-510ddd9391bd" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_12b15aca-f0e5-49ed-8216-510ddd9391bd</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_12b15aca-f0e5-49ed-8216-510ddd9391bd.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="setlang"
+        recordRawValue="en-US" separator="=" value="en-US" valueMode="USE_VALUE"/>
+    <header name="accept-language" value="en-US, en;q=0.5"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; ServiceUI 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299"/>
+    <header name="origin" value="https://www.bing.com"/>
+    <header name="referer" value="https://www.bing.com/"/>
+    <header name="accept" value="*/*"/>
+    <header name="cookie" value="SRCHUID=V=2&amp;GUID=16DDC696E225492CBDDC35A3C5DA91C3&amp;dmnchg=1; SRCHD=AF=NOFORM; MUID=2B9B68F5E8EE67D428A86252ECEE64F6; SRCHUSR=DOB=20170630; NAP=V=1.9&amp;E=13f5&amp;C=uU8IFHtSyuG5-uBKP9rYaqaE__cwe6SuvbFgfSVz6QJxh1YieDi8gw&amp;W=1; SRCHHPGUSR=LUT=1510954804790&amp;CW=1520&amp;CH=756&amp;DPR=1.25&amp;UTC=-300&amp;WTS=63645843866; ANON=A=6772D42C459F713C79F65255FFFFFFFF&amp;E=13f5&amp;W=1; _U=1Ctw3myc69z2FqdS8Ba_Hh9Rql96YflXoTO7vGMxWnhqBMYK6w0_TvCxjlIENWSBrsV1eicStYtmqoasOc0PZMnvazEerHk-2vOoWT20uGipSqTw8hbeoj_tSizhNq_PM; WLID=kqrENjvSA0Dw8u1zzbw+1VNqVlk9GHAvMAxHL/g86Sij9u0MHlvQesixYxpEIsk2K/hT3cHjGU++A6MVzd0aMK855f/HLDHqJdieBTLa3GY=; _RwBf=s=10&amp;o=0&amp;A=6772D42C459F713C79F65255FFFFFFFF; _SS=SID=23D51E2A8DD162D02A8115178C56632E&amp;CPID=1510954804791&amp;AC=1&amp;CPH=880b3509; _EDGE_S=ui=en-us&amp;SID=23D51E2A8DD162D02A8115178C56632E; WLS=C=&amp;N=; MUIDB=2B9B68F5E8EE67D428A86252ECEE64F6"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: private&#xd;
+content-length: 1229&#xd;
+content-type: text/cache-manifest; charset=utf-8&#xd;
+content-encoding: gzip&#xd;
+vary: Accept-Encoding&#xd;
+p3p: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"&#xd;
+x-msedge-ref: Ref A: 6117ED05A11244BA9F4033E652BE358D Ref B: NYCEDGE0311 Ref C: 2017-11-17T21:40:08Z&#xd;
+date: Fri, 17 Nov 2017 21:40:08 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/partner/warmup.gif" path="/partner/warmup.gif"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/0a1185b5-cfef-4f39-a408-52a3e7a906b2.zip"
+    recordedResponseCode="200" responseSize="0" serverUid="www.bing.com"
+    slaProfileEnabled="false" uid="1d6b8c05-ace5-4630-949d-148a0adde5b2" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_1d6b8c05-ace5-4630-949d-148a0adde5b2.txt</requestContentFileDescription>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299"/>
+    <header name="cookie" value="_SS=SID=23D51E2A8DD162D02A8115178C56632E&amp;CPID=1510954804791&amp;AC=1&amp;CPH=880b3509; _EDGE_S=ui=en-us&amp;SID=23D51E2A8DD162D02A8115178C56632E; WLS=C=&amp;N=; SRCHUID=V=2&amp;GUID=16DDC696E225492CBDDC35A3C5DA91C3&amp;dmnchg=1; SRCHD=AF=NOFORM; MUID=2B9B68F5E8EE67D428A86252ECEE64F6; SRCHUSR=DOB=20170630; NAP=V=1.9&amp;E=13f5&amp;C=uU8IFHtSyuG5-uBKP9rYaqaE__cwe6SuvbFgfSVz6QJxh1YieDi8gw&amp;W=1; SRCHHPGUSR=LUT=1510954804790&amp;CW=1520&amp;CH=756&amp;DPR=1.25&amp;UTC=-300&amp;WTS=63645843866; ANON=A=6772D42C459F713C79F65255FFFFFFFF&amp;E=13f5&amp;W=1; _U=1Ctw3myc69z2FqdS8Ba_Hh9Rql96YflXoTO7vGMxWnhqBMYK6w0_TvCxjlIENWSBrsV1eicStYtmqoasOc0PZMnvazEerHk-2vOoWT20uGipSqTw8hbeoj_tSizhNq_PM; WLID=kqrENjvSA0Dw8u1zzbw+1VNqVlk9GHAvMAxHL/g86Sij9u0MHlvQesixYxpEIsk2K/hT3cHjGU++A6MVzd0aMK855f/HLDHqJdieBTLa3GY=; _RwBf=s=10&amp;o=0&amp;A=6772D42C459F713C79F65255FFFFFFFF; MUIDB=2B9B68F5E8EE67D428A86252ECEE64F6"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept-language" value="en-US, en;q=0.5"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: no-cache&#xd;
+pragma: no-cache&#xd;
+content-length: 43&#xd;
+content-type: image/gif&#xd;
+expires: -1&#xd;
+vary: Accept-Encoding&#xd;
+x-msedge-ref: Ref A: D73A625A6F714F6BBE02617C6BE6EAA5 Ref B: NYCEDGE0213 Ref C: 2017-11-17T21:40:08Z&#xd;
+date: Fri, 17 Nov 2017 21:40:08 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

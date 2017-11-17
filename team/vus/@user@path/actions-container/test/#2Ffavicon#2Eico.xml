@@ -1,0 +1,31 @@
+<http-page executeResourcesDynamically="false" name="/favicon.ico"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/0c20173f-dd5d-4762-8da8-2af2dad62f4d.zip"
+    slaProfileEnabled="false" thinkTime="633"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="0c20173f-dd5d-4762-8da8-2af2dad62f4d">
+    <embedded-action>2a51a3b7-502a-4a0d-885a-9bbbe9bc149a</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="image/x-icon"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/favicon.ico" path="/favicon.ico" postType="1"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/0c20173f-dd5d-4762-8da8-2af2dad62f4d.zip"
+    recordedResponseCode="200" responseSize="0" serverUid="www.bing.com"
+    slaProfileEnabled="false" uid="2a51a3b7-502a-4a0d-885a-9bbbe9bc149a" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_2a51a3b7-502a-4a0d-885a-9bbbe9bc149a.txt</requestContentFileDescription>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299"/>
+    <header name="dnt" value="1"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: public, max-age=15552000&#xd;
+content-type: image/x-icon&#xd;
+last-modified: Wed, 15 Nov 2017 14:15:57 GMT&#xd;
+vary: Accept-Encoding&#xd;
+date: Fri, 17 Nov 2017 21:40:06 GMT&#xd;
+content-length: 300</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

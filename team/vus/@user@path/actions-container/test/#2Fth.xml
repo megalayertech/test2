@@ -1,0 +1,136 @@
+<http-page executeResourcesDynamically="false" name="/th"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/93871bdf-f92d-49c1-bee7-337d21e5d518.zip"
+    slaProfileEnabled="false" thinkTime="536"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="93871bdf-f92d-49c1-bee7-337d21e5d518">
+    <embedded-action>32f9880d-43f0-45a8-83d2-6611a288a6e1</embedded-action>
+    <embedded-action>c5ad61ae-e847-4401-8760-9310693d7f8e</embedded-action>
+    <embedded-action>aff459ed-1ed5-4c0f-a75e-428539277fa2</embedded-action>
+    <embedded-action>98e7733a-264c-47ce-b530-3c5d97d84d44</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="image/jpeg"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/th" path="/th" postType="1"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/93871bdf-f92d-49c1-bee7-337d21e5d518.zip"
+    recordedResponseCode="200" responseSize="0" serverUid="www.bing.com"
+    slaProfileEnabled="false" uid="32f9880d-43f0-45a8-83d2-6611a288a6e1" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_32f9880d-43f0-45a8-83d2-6611a288a6e1.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="u"
+        recordRawValue="http%3a%2f%2fpbs.twimg.com%2fprofile_images%2f747326716746444800%2fIRfRHRaE_normal.jpg"
+        separator="="
+        value="http://pbs.twimg.com/profile_images/747326716746444800/IRfRHRaE_normal.jpg" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ehk"
+        recordRawValue="QPKA9Ttsx7GnpHNfjTGcJg" separator="="
+        value="QPKA9Ttsx7GnpHNfjTGcJg" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="w"
+        recordRawValue="40" separator="=" value="40" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="h"
+        recordRawValue="40" separator="=" value="40" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="c"
+        recordRawValue="8" separator="=" value="8" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="rs"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="qlt"
+        recordRawValue="90" separator="=" value="90" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="pid"
+        recordRawValue="Social" separator="=" value="Social" valueMode="USE_VALUE"/>
+    <header name="accept" value="image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299"/>
+    <header name="referer" value="https://www.bing.com/"/>
+    <header name="cookie" value="_SS=SID=23D51E2A8DD162D02A8115178C56632E&amp;CPID=1510954806887&amp;AC=1&amp;CPH=880b3509&amp;PC=DCTS; _EDGE_S=mkt=en-us&amp;ui=en-us&amp;SID=23D51E2A8DD162D02A8115178C56632E; WLS=C=&amp;N=; SRCHUID=V=2&amp;GUID=16DDC696E225492CBDDC35A3C5DA91C3&amp;dmnchg=1; SRCHD=AF=NOFORM; MUID=2B9B68F5E8EE67D428A86252ECEE64F6; SRCHUSR=DOB=20170630; NAP=V=1.9&amp;E=13f5&amp;C=uU8IFHtSyuG5-uBKP9rYaqaE__cwe6SuvbFgfSVz6QJxh1YieDi8gw&amp;W=1; SRCHHPGUSR=LUT=1510954804790&amp;CW=1520&amp;CH=756&amp;DPR=1.25&amp;UTC=-300&amp;WTS=63645843866; ANON=A=6772D42C459F713C79F65255FFFFFFFF&amp;E=13f5&amp;W=1; _U=1Ctw3myc69z2FqdS8Ba_Hh9Rql96YflXoTO7vGMxWnhqBMYK6w0_TvCxjlIENWSBrsV1eicStYtmqoasOc0PZMnvazEerHk-2vOoWT20uGipSqTw8hbeoj_tSizhNq_PM; WLID=kqrENjvSA0Dw8u1zzbw+1VNqVlk9GHAvMAxHL/g86Sij9u0MHlvQesixYxpEIsk2K/hT3cHjGU++A6MVzd0aMK855f/HLDHqJdieBTLa3GY=; _RwBf=s=10&amp;o=0&amp;A=6772D42C459F713C79F65255FFFFFFFF; SRCHS=PC=DCTS; MUIDB=2B9B68F5E8EE67D428A86252ECEE64F6"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="accept-language" value="en-US, en;q=0.5"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: public, max-age=1209600&#xd;
+content-length: 954&#xd;
+content-type: image/jpeg&#xd;
+access-control-allow-origin: *&#xd;
+timing-allow-origin: *&#xd;
+x-msedge-ref: Ref A: 7605C3C00A3448F0A7509417C02B4462 Ref B: NYCEDGE0213 Ref C: 2017-11-17T21:40:10Z&#xd;
+date: Fri, 17 Nov 2017 21:40:10 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/rms/rms%20answers%20Shared%20RoundSeeMoreChevron/ic/fea28513/8ad63be1.png"
+    path="/rms/rms%20answers%20Shared%20RoundSeeMoreChevron/ic/fea28513/8ad63be1.png"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/93871bdf-f92d-49c1-bee7-337d21e5d518.zip"
+    recordedResponseCode="200" responseSize="0" serverUid="www.bing.com"
+    slaProfileEnabled="false" uid="c5ad61ae-e847-4401-8760-9310693d7f8e" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_c5ad61ae-e847-4401-8760-9310693d7f8e.txt</requestContentFileDescription>
+    <header name="accept" value="image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5"/>
+    <header name="accept-language" value="en-US, en;q=0.5"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299"/>
+    <header name="cookie" value="_SS=SID=23D51E2A8DD162D02A8115178C56632E&amp;CPID=1510954806887&amp;AC=1&amp;CPH=880b3509&amp;PC=DCTS; _EDGE_S=mkt=en-us&amp;ui=en-us&amp;SID=23D51E2A8DD162D02A8115178C56632E; WLS=C=&amp;N=; SRCHUID=V=2&amp;GUID=16DDC696E225492CBDDC35A3C5DA91C3&amp;dmnchg=1; SRCHD=AF=NOFORM; MUID=2B9B68F5E8EE67D428A86252ECEE64F6; SRCHUSR=DOB=20170630; NAP=V=1.9&amp;E=13f5&amp;C=uU8IFHtSyuG5-uBKP9rYaqaE__cwe6SuvbFgfSVz6QJxh1YieDi8gw&amp;W=1; SRCHHPGUSR=LUT=1510954804790&amp;CW=1520&amp;CH=756&amp;DPR=1.25&amp;UTC=-300&amp;WTS=63645843866; ANON=A=6772D42C459F713C79F65255FFFFFFFF&amp;E=13f5&amp;W=1; _U=1Ctw3myc69z2FqdS8Ba_Hh9Rql96YflXoTO7vGMxWnhqBMYK6w0_TvCxjlIENWSBrsV1eicStYtmqoasOc0PZMnvazEerHk-2vOoWT20uGipSqTw8hbeoj_tSizhNq_PM; WLID=kqrENjvSA0Dw8u1zzbw+1VNqVlk9GHAvMAxHL/g86Sij9u0MHlvQesixYxpEIsk2K/hT3cHjGU++A6MVzd0aMK855f/HLDHqJdieBTLa3GY=; _RwBf=s=10&amp;o=0&amp;A=6772D42C459F713C79F65255FFFFFFFF; SRCHS=PC=DCTS; MUIDB=2B9B68F5E8EE67D428A86252ECEE64F6"/>
+    <header name="referer" value="https://www.bing.com/"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: public, max-age=15552000&#xd;
+content-type: image/png&#xd;
+last-modified: Wed, 15 Nov 2017 14:13:48 GMT&#xd;
+vary: Accept-Encoding&#xd;
+date: Fri, 17 Nov 2017 21:40:10 GMT&#xd;
+content-length: 603</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/rms/rms%20answers%20Shared%20RoundChevron32/ic/ead77415/3938fd08.png"
+    path="/rms/rms%20answers%20Shared%20RoundChevron32/ic/ead77415/3938fd08.png"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/93871bdf-f92d-49c1-bee7-337d21e5d518.zip"
+    recordedResponseCode="200" responseSize="0" serverUid="www.bing.com"
+    slaProfileEnabled="false" uid="aff459ed-1ed5-4c0f-a75e-428539277fa2" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_aff459ed-1ed5-4c0f-a75e-428539277fa2.txt</requestContentFileDescription>
+    <header name="accept-language" value="en-US, en;q=0.5"/>
+    <header name="accept" value="image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299"/>
+    <header name="referer" value="https://www.bing.com/"/>
+    <header name="cookie" value="_SS=SID=23D51E2A8DD162D02A8115178C56632E&amp;CPID=1510954806887&amp;AC=1&amp;CPH=880b3509&amp;PC=DCTS; _EDGE_S=mkt=en-us&amp;ui=en-us&amp;SID=23D51E2A8DD162D02A8115178C56632E; WLS=C=&amp;N=; SRCHUID=V=2&amp;GUID=16DDC696E225492CBDDC35A3C5DA91C3&amp;dmnchg=1; SRCHD=AF=NOFORM; MUID=2B9B68F5E8EE67D428A86252ECEE64F6; SRCHUSR=DOB=20170630; NAP=V=1.9&amp;E=13f5&amp;C=uU8IFHtSyuG5-uBKP9rYaqaE__cwe6SuvbFgfSVz6QJxh1YieDi8gw&amp;W=1; SRCHHPGUSR=LUT=1510954804790&amp;CW=1520&amp;CH=756&amp;DPR=1.25&amp;UTC=-300&amp;WTS=63645843866; ANON=A=6772D42C459F713C79F65255FFFFFFFF&amp;E=13f5&amp;W=1; _U=1Ctw3myc69z2FqdS8Ba_Hh9Rql96YflXoTO7vGMxWnhqBMYK6w0_TvCxjlIENWSBrsV1eicStYtmqoasOc0PZMnvazEerHk-2vOoWT20uGipSqTw8hbeoj_tSizhNq_PM; WLID=kqrENjvSA0Dw8u1zzbw+1VNqVlk9GHAvMAxHL/g86Sij9u0MHlvQesixYxpEIsk2K/hT3cHjGU++A6MVzd0aMK855f/HLDHqJdieBTLa3GY=; _RwBf=s=10&amp;o=0&amp;A=6772D42C459F713C79F65255FFFFFFFF; SRCHS=PC=DCTS; MUIDB=2B9B68F5E8EE67D428A86252ECEE64F6"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: public, max-age=15552000&#xd;
+content-type: image/png&#xd;
+last-modified: Wed, 15 Nov 2017 14:15:19 GMT&#xd;
+vary: Accept-Encoding&#xd;
+date: Fri, 17 Nov 2017 21:40:10 GMT&#xd;
+content-length: 609</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/x-icon"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/sa/simg/bing_p_rr_teal_min.ico"
+    path="/sa/simg/bing_p_rr_teal_min.ico" postType="1"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/93871bdf-f92d-49c1-bee7-337d21e5d518.zip"
+    recordedResponseCode="200" responseSize="0" serverUid="www.bing.com"
+    slaProfileEnabled="false" uid="98e7733a-264c-47ce-b530-3c5d97d84d44" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_98e7733a-264c-47ce-b530-3c5d97d84d44.txt</requestContentFileDescription>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="dnt" value="1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: public, max-age=15552000&#xd;
+content-type: image/x-icon&#xd;
+last-modified: Wed, 15 Nov 2017 14:15:57 GMT&#xd;
+vary: Accept-Encoding&#xd;
+date: Fri, 17 Nov 2017 21:40:10 GMT&#xd;
+content-length: 440</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
