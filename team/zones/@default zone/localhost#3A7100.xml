@@ -1,0 +1,70 @@
+<lg-host hostname="localhost:7100" loadWeight="1" standalone="false"
+    supportWANEmulation="false"
+    uid="3dcfe843-efc7-4c8a-8eb0-9c6db7ab2356" version="6.2.0;build=20171115-54">
+    <!--****** LG NETWORK INTERFACES ******-->
+    <lg-networkiface description="Intel(R) Dual Band Wireless-AC 3165"
+        enabled="false" isLoopBack="false" name="wlan0">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="2601:18c:cd81:4a88:0:0:0:426b">
+            <ip value="2601:18c:cd81:4a88:0:0:0:426b"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="2601:18c:cd81:4a88:0:0:0:b037">
+            <ip value="2601:18c:cd81:4a88:0:0:0:b037"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="2601:18c:cd81:4a88:5499:b068:48e7:860b">
+            <ip value="2601:18c:cd81:4a88:5499:b068:48e7:860b"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="2601:18c:cd81:4a88:8901:7533:ced4:68e7">
+            <ip value="2601:18c:cd81:4a88:8901:7533:ced4:68e7"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="2601:18c:cd81:4a88:8987:5ddd:cebb:a4db">
+            <ip value="2601:18c:cd81:4a88:8987:5ddd:cebb:a4db"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="2601:18c:cd81:4a88:a8b7:6ef8:fc20:6f53">
+            <ip value="2601:18c:cd81:4a88:a8b7:6ef8:fc20:6f53"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="fe80:0:0:0:8987:5ddd:cebb:a4db%wlan0">
+            <ip value="fe80:0:0:0:8987:5ddd:cebb:a4db%wlan0"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="TAP-Windows Adapter V9"
+        enabled="false" isLoopBack="false" name="eth6">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="fe80:0:0:0:e078:8892:fb50:215a%eth6">
+            <ip value="fe80:0:0:0:e078:8892:fb50:215a%eth6"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="Software Loopback Interface 1"
+        enabled="false" isLoopBack="true" name="lo">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="127.0.0.1">
+            <ip value="127.0.0.1"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="0:0:0:0:0:0:0:1">
+            <ip value="0:0:0:0:0:0:0:1"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="Realtek USB GbE Family Controller #2"
+        enabled="false" isLoopBack="false" name="eth4">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="pc021">
+            <ip value="10.2.0.95"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="fe80:0:0:0:9c5c:771e:6a45:a271%eth4">
+            <ip value="fe80:0:0:0:9c5c:771e:6a45:a271%eth4"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Microsoft Wi-Fi Direct Virtual Adapter"
+        enabled="false" isLoopBack="false" name="wlan2">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="fe80:0:0:0:c424:8d8b:3dd8:5598%wlan2">
+            <ip value="fe80:0:0:0:c424:8d8b:3dd8:5598%wlan2"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+</lg-host>

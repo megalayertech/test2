@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=test2
+project.version=6.1
+project.original.version=6.1
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=6.2.0
+project.id=c96b78f3-a6d4-46e5-88f9-ad5cf33ebf61
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=megalayertech/test2.git
